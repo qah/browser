@@ -1,0 +1,9 @@
+[submodule "libcss"]
+	path = libcss
+
+[submodule "libdom"]
+	path = libdom
+
+[submodule "libhubbub"]
+	path = libhubbub
+
