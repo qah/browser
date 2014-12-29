@@ -1,0 +1,5 @@
+- libhubbub: HTML5 compliant parsing library (netsurf)
+- libcss: CSS parser and selection engine (netsurf)
+- libdom: implementation of the W3C DOM (netsurf)
+- html*: other files from TkHtml
+
